@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>NVL-HTML-P6a</title>
+    </head>
+    <body>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1200px-LaLiga.svg.png" alt="logo de la Liga de Fútbol" width="150px" height="100">
+        <h1>Clasificación de la Liga de Fútbol nacional</h1>
+        <ol>
+            <li>Barcelona</li>
+            <li>Real Madrid</li>
+            <li>Sevilla</li>
+            <li>Real Sociedad</li>
+            <li>Getafe</li>
+        </ol>
+    </body>
+</html>
