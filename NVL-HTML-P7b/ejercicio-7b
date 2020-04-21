@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>NVL-HTML-P7b</title>
+    </head>
+    <body>
+        <h1>Glosario de términos</h1><br>
+        <a href="#terminos_con_A">A</a>
+        <a href="#terminos_con_B">B</a>
+        <a href="#terminos_con_C">C</a>
+        <a href="#terminos_con_D">D</a>
+        <a href="#terminos_con_E">E</a>
+        <a href="#terminos_con_F">F</a>
+        <a href="#terminos_con_G">G</a>
+        <a href="#terminos_con_H">H</a>
+        <a href="#terminos_con_I">I</a>
+        <a href="#terminos_con_J">J</a>
+        <a href="#terminos_con_K">K</a>
+        <a href="#terminos_con_L">L</a>
+        <a href="#terminos_con_M">M</a>
+        <a href="#terminos_con_N">N</a>
+        <a href="#terminos_con_O">O</a>
+        <a href="#terminos_con_P">P</a>
+        <a href="#terminos_con_Q">Q</a>
+        <a href="#terminos_con_R">R</a>
+        <a href="#terminos_con_S">S</a>
+        <a href="#terminos_con_T">T</a>
+        <a href="#terminos_con_U">U</a>
+        <a href="#terminos_con_V">V</a>
+        <a href="#terminos_con_W">W</a>
+        <a href="#terminos_con_X">X</a>
+        <a href="#terminos_con_Y">Y</a>
+        <a href="#terminos_con_Z">Z</a>
+        <hr>        
+        <a name="terminos_con_A"><strong>Address</strong>: El elemento de dirección se utiliza ocasionalmente; permite a los visitantes de un sitio Web ponerse en contacto con el autor de la página</a><br><br>
+        <a name="terminos_con_A"><strong>Anchor</strong>: Es una abreviatura para referirse a los enlaces internos de una página web.</a><br><br>
+        <a name="terminos_con_B"><strong>Backlink</strong>: Los backlinks son enlaces que recibe una determinada web desde otras</a><br><br>
+        <a name="terminos_con_B"><strong>Backup</strong>: Copia de Respaldo o Seguridad</a><br><br>
+        <a name="terminos_con_B"><strong>Body</strong>: parte básica de la estructura de cualquier documento HTML.</a><br><br>
+        <a name="terminos_con_B"><strong>Border-radius</strong>: Propiedad CSS implementada a partir de CSS3. Nos permite añadir bordes redondeados a objetos</a><br><br>
+        <a name="terminos_con_C"><strong>Cabecera</strong>: Encabezamiento de una página o una sección de esta. En el caso de encabezamiento de página, se suele colocar el nombre de esta, un logotipo, menús de navegación que pueden ser desplegables, barras de búsqueda, entre otros</a><br><br>
+        <a name="terminos_con_C"><strong>Caché</strong>: Es la habilidad de un navegador o de un servidor para guardar copias de páginas Web en un disco duro con la ventaja de que carga más rápido dado que la información no debe de ser "pedida y entregada" por un servidor si no que apunta a un lugar en específico mucho más cercano.</a><br><br>
+        <a name="terminos_con_C"><strong>Comentarios</strong>: En todo lenguaje de programación, marcado, hoja de estilos, scripts y demás, el código se puede comentar, es decir, indicar con palabras comunes que significa cada línea o conjunto de líneas, esto a fin de evitar confusiones en caso de que otra persona tome el control del proyecto, o bien, no quiera confundirse a sí misma.</a><br><br>
+        <a name="terminos_con_D"><strong>Div</strong>: Etiqueta HTML que define una sección o una división en una página web. Generalmente se forman bloques con divs, mismos a los que se da un formato mediante CSS. Actualmente se usan con menor frecuencia debido a ciertas etiquetas introducidas en HTML5, a las que se puede dar formato y tienen un significado semántico del cual los divs carecen. Los elementos de división agrupan uno o más elementos de bloque.</a><br><br>
+        <a name="terminos_con_D"><strong>DOM</strong>: Document Object Model o DOM es el API que proporciona un conjunto estándar de objetos para representar documentos HTML y XML, un modelo estándar sobre cómo pueden combinarse dichos objetos, y una interfaz estándar para acceder a ellos y manipularlos. A través del DOM, los programas pueden acceder y modificar el contenido, estructura y estilo de los documentos HTML y XML, que es para lo que se diseñó principalmente.</a><br><br>
+        <a name="terminos_con_E"><strong>Elemento vacío</strong>: Un elemento vacío (void elemento) es un tag que no requiere ser cerrado para conformar un documento HTML válido.</a><br><br>
+        <a name="terminos_con_E"><strong>Enlace externo (external link)</strong>: Un enlace externo es un hipervínculo que apunta a otra página web en Internet, normalmente en otro dominio de la página web actual</a><br><br>
+        <a name="terminos_con_E"><strong>Etiqueta (tag)</strong>: Son la parte del HTML que el navegador interpreta para dar forma y estructura al sitio. El contenido entre estas etiquetas es lo que muestra el navegador web.</a><br><br>
+        <a name="terminos_con_E"><strong>Experiencia de usuario (UX)</strong>: La experiencia del usuario es un concepto que ha ido ganando relevancia en los últimos años. Ya no se trata de servir la información, sino de que ésta sea lo más agradable para el usuario. Esta experiencia depende de muchas cosas, no solamente del diseño, por ejemplo, depende de la velocidad de carga del sitio y de la calidad de la información.</a><br><br>
+        <a name="terminos_con_F"><strong>Float</strong>: Propiedad CSS muy utilizada para alinear un elemento a la izquierda o a la derecha "flotándolo", es decir, de tal manera que el resto de los elementos continúe con un flujo normal a menos que floten de manera similar o se especifique lo contrario en el documento CSS.</a>base<br><br>
+        <a name="terminos_con_F"><strong>Frame</strong>: Instrucciones en el lenguaje HTML (utilizado para diseñar las páginas Web); una forma de dividir la pantalla del navegante en varias zonas, cada una con autonomía de movimiento. Por ejemplo, se puede dividir una pantalla de modo que haya un frame vertical que ocupe el lado izquierdo de la pantalla durante toda la navegación que contenga el menú de un sitio Web. Los frames son un agregado al HTML estándar inventado por la empresa Netscape y luego adoptados como norma.</a><br><br>
+        <a name="terminos_con_G"><strong>GIF</strong>: Formato de imágenes utilizado para que los archivos tengan pocos colores y cuando se requiera un tamaño de archivo pequeño. Una peculiaridad del formato es que los archivos creados con este, pueden ser animados.</a><br><br>
+        <a name="terminos_con_H"><strong>Hipervínculo</strong>: es un elemento de un que hace referencia a otro recurso, por ejemplo, otro documento o un punto específico del mismo o de otro documento. Interfaz: Es la representación gráfica de una aplicación interactiva, es lo que media y facilita la comunicación e interacción entre el individuo y la maquina, ella es lo que el usuario ve en la pantalla y con la que interactúa finalmente.</a><br><br>
+        <a name="terminos_con_I"><strong>Iframe</strong>: genera un marco en línea, una ventana incrustada y desplazable que muestra una página Web dentro de otra. Se proporcionan los atributos src (la página que se desea mostrar en el marco), name (el nombre unívoco del marco) y width (ancho) y height (alto) (las dimensiones del marco en píxeles). </a><br><br>
+        <a name="terminos_con_J"><strong>Javascript</strong>: Un lenguaje de programación que permite añadir ciertas funciones a las páginas web, e incluso alterar la manera en que se ven algunos elementos dadas ciertas condiciones (ej. reducir el tamaño de la cabecera al hacer scroll hacia abajo).</a><br><br>
+        <a name="terminos_con_K"><strong>Keyword</strong>: Término para buscar información dentro de un buscador o para registrar una página web en un buscador</a><br><br>
+        <a name="terminos_con_L"><strong>Link</strong>: describe una relación entre el documento actual y otro. Por ejemplo, puede utilizarlo para apuntar a la versión anterior del archivo actual. Más comúnmente, se emplea para señalar a una hoja de estilo externa que ofrece instrucciones de formato para la página actual.</a><br><br>
+        <a name="terminos_con_M"><strong>Metadatos</strong>: Los metaelementos permiten incrustar información descriptiva en las páginas Web. Los visitantes nunca ven esta información, pero los programas automatizados como los motores de búsqueda pueden encontrarla cuando escaneen su sitio Web.</a><br><br>
+        <a name="terminos_con_N"><strong>Nube</strong>: La nube es una metáfora empleada para hacer referencia a servicios que se utilizan a través de Internet.</a><br><br>
+        <a name="terminos_con_O"><strong>ol</strong>: contiene múltiples elementos de lista, cada uno de ellos representado por el elemento </a><br><br>
+        <a name="terminos_con_P"><strong>Página Web</strong>: Es una unidad de información individual a la que se accede a través de la WWW, en ella se presentan texto, imágenes, sonidos, vídeos y enlaces, y su extensión puede ser más larga que una pantalla de computador.</a><br><br>
+        <a name="terminos_con_Q"><strong>QR</strong>: El código QR (Quick Response) fue diseñado para ser decodificado a alta velocidad.</a><br><br>
+        <a name="terminos_con_S"><strong>Selector</strong>: Es la parte del CSS que nos permite seleccionar qué parte del HTML queremos estilizar y dada qué acción.</a><br><br>
+        <a name="terminos_con_T"><strong>Tag</strong>: También llamados etiquetas, son caracteres de marcado que indican el comienzo o final de un elemento y su contenido va englobado dentro de éstas etiquetas.</a><br><br>
+        <a name="terminos_con_U"><strong>URL</strong>: Uniform Resource Locator. Sistema de direccionamiento estándar de archivos y funciones en Internet, especialmente en la WWW.</a><br><br>
+        <a name="terminos_con_V"><strong>VPN</strong>: El término se usa para una red de comunicaciones que usa la infraestructura de Internet para proveer conexiones remotas a redes de una organización, por ejemplo a empleados que trabajan desde su casa o que están de viaje.</a><br><br>
+        <a name="terminos_con_W"><strong>World Wide Web</strong>: Es un sistema hipermedial que permite el acceso a una diversidad de contenidos a través del seguimiento de enlaces desde un elemento a otro, colocando a disposición de los usuarios referencias o vínculos a otros documentos ya sean en formato de sonidos, gráficas o vídeo.</a><br><br>
+        <a name="terminos_con_X"><strong>XML</strong>: Lenguaje Extensible de Marcado.</a><br><br>
+        <a name="terminos_con_Y" href="https://www.youtube.com/" target="_blank"><strong>YouTube</strong></a>: Sitio web con millones de videos que provienen de cualquiera que tenga una camara digital en adelante.<br><br>
+        <a name="terminos_con_Z"><strong>Zipear</strong>: Se refiere a la acción de comprimir en un solo archivo a un grupo de archivos que por lo general se comprimen también para que ocupen el menor espacio posible en la computadora y aminore el tiempo en que se transmiten a través de Internet.</a><br><br>
+    <body>
+</html>
