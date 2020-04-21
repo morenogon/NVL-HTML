@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>NVL-HTML-P6a</title>
+    </head>
+    <body>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1200px-LaLiga.svg.png" alt="logo de la Liga de Fútbol" width="100">
+        <h1>Clasificación</h1>
+        <ol>
+            <li>Barcelona</li>
+            <li>Real Madrid</li>
+            <li>Sevilla</li>
+            <li>Real Sociedad</li>
+            <li>Getafe</li>
+        </ol>
+        <table border="1px">       
+            <caption>Tabla de clasificación</caption>     
+            <thead>
+                <tr>
+                    <th>Puesto</th>
+                    <th>Nombre del equipo</th>
+                    <th>Puntos totales</th>
+                    <th>Partidos ganados</th>
+                    <th>Partidos perdidos</th>
+                    <th>Partidos empatados</th>
+                    <th>Goles a favor</th>
+                    <th>Goles en contra</th>
+                </tr>                
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align: center">1º</td>
+                    <td style="text-align: center">Barcelona</td>
+                    <td style="text-align: center">100</td>
+                    <td style="text-align: center">10</td>
+                    <td style="text-align: center">3</td>
+                    <td style="text-align: center">1</td>
+                    <td style="text-align: center">10</td>
+                    <td style="text-align: center">1</td>
+                </tr>   
+                <tr>
+                    <td style="text-align: center">2º</td>
+                    <td style="text-align: center">Real Madrid</td>
+                    <td style="text-align: center">90</td>
+                    <td style="text-align: center">9</td>
+                    <td style="text-align: center">4</td>
+                    <td style="text-align: center">2</td>
+                    <td style="text-align: center">9</td>
+                    <td style="text-align: center">2</td>
+                </tr>    
+                <tr>
+                    <td style="text-align: center">3º</td>
+                    <td style="text-align: center">Sevilla</td>
+                    <td style="text-align: center">80</td>
+                    <td style="text-align: center">8</td>
+                    <td style="text-align: center">5</td>
+                    <td style="text-align: center">3</td>
+                    <td style="text-align: center">8</td>
+                    <td style="text-align: center">3</td>
+                </tr>        
+                <tr>
+                    <td style="text-align: center">4º</td>
+                    <td style="text-align: center">Real Sociedad</td>
+                    <td style="text-align: center">70</td>
+                    <td style="text-align: center">7</td>
+                    <td style="text-align: center">6</td>
+                    <td style="text-align: center">4</td>
+                    <td style="text-align: center">7</td>
+                    <td style="text-align: center">1</td>
+                </tr>        
+                <tr>
+                    <td style="text-align: center">5º</td>
+                    <td style="text-align: center">Getafe</td>
+                    <td style="text-align: center">60</td>
+                    <td style="text-align: center">4</td>
+                    <td style="text-align: center">7</td>
+                    <td style="text-align: center">1</td>
+                    <td style="text-align: center">9</td>
+                    <td style="text-align: center">10</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
