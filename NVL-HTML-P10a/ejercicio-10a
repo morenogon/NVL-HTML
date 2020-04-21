@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>NVL-HTML-P10a</title>
+    </head>
+    <body>
+        <form>
+            <div>
+                <label for="codigo-postal">Código Postal: </label>
+                <input id="codigo-postal" type="number">
+            </div>
+            <br>
+            <div>
+                <label for="satisfaccion">Nivel de satisfacción: </label>
+                <select id="satisfaccion">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </div>
+            <br>
+            <div>
+                <label for="email">Email: </label>
+                <input id="email" value="email" type="email">
+            </div>
+            <br>
+            <div>
+                <label for="puntos-positivos">Puntos positivos</label>
+                <input id="puntos-positivos" value="puntos positivos" type="text">
+            </div>
+            <br>
+            <div>
+                <label for="puntos-negativos">Puntos negativos</label>
+                <input id="puntos-negativos" value="puntos negativos" type="text">
+            </div>
+            <br>
+            <div>
+                <label for="calidad">Calidad del servicio: </label>
+                <select id="calidad">
+                    <option value="0">Pésimo</option>
+                    <option value="1">Regular</option>
+                    <option value="2">Bueno</option>
+                    <option value="3">Excelente</option>
+                </select>
+            </div>
+            <br>
+            <div>
+                <label for="calidad-radio">Calidad del servicio:</label><br>
+                <input type="radio" name="calidad-radio" value="0"> Pésimo<br>
+                <input type="radio" name="calidad-radio" value="1"> Regular <br>
+                <input type="radio" name="calidad-radio" value="2"> Bueno <br>
+                <input type="radio" name="calidad-radio" value="2"> Excelente <br>
+            </div>
+        </form>
+    </body>
+</html>
