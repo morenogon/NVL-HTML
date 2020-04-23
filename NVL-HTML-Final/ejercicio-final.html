@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Waku Waku</title>
+        <style>
+            tr, td, th{
+                border: 1px solid black;                
+            }
+        </style>        
+    </head>
+    <body style="font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif; font-size: 15px;">
+        <header> 
+            <h1 style="text-align: center;"><img src="img/waku-waku-logo.png" alt="logo Waku Waku" width="200"></h1>
+        </header>
+        <nav style="text-align: center;">
+            <a href="#nosotros">¿Quienes somos?</a><br>
+            <a href="#servicios">Nuestros servicios</a><br>
+            <a href="#pricing">Pricing</a><br>
+            <a href="#contacto">Contacto</a><br>               
+        </nav>     
+        <section id="nosotros">
+            <h3 style="text-align: center;">¿Quienes Somos? &#9994;</h3>
+            <p style="text-align: center;">Pensamos que tu mascota estará mejor con uno de nuestros cuidadores de confianza.<br>Casi nunca estará solo y vivirá en la casa con su familia de acogida durante tus vacaciones. <br> ¡Podrás también recibir fotos de él para saber cómo se está portando!</p>
+            <hr> <!--Horizontal rule/line-->
+            <div>
+                <article>
+                    <h4>Carmen</h4>
+                    <img src="img/carmen-icon.png" alt="Imagen de Carmen" width="100">
+                </article>
+                <article>
+                    <h4>Alba</h4>
+                    <img src="img/alba-icon.png" alt="Imagen de Alba" width="100">
+                </article>  
+                <article>
+                    <h4>Felipe</h4>
+                    <img src="img/felipe-icon.png" alt="Imagen de Felipe" width="100">
+                </article>                
+            </div>
+        </section>
+        <section id="servicios">
+            <h3 style="text-align: center;">Nuestros servicios &#128062;</h3>
+            <h4 style="text-align: center;">¡Tu mascota en manos de nuestros cuidadores de confianza!</h4>
+            <hr>
+            <div>
+                <article>
+                    <h4>Guardería</h4>                
+                    <p>¿Te vas de vacaciones y no puedes llevar a tu mascota contigo? Escoge la guardería para perros o para gatos o para otros tipos de animal y deja a tu peludito a cargo de un cuidador de confianza que sabrá ocuparse de él. Te mantendrá informado de cómo lo está pasando tu mascota durante sus vacaciones mientras tú podrás disfrutar con toda tranquilidad de las tuyas.</p>
+                    <img src="img/guarderia-icon.png" alt="Imagen del servicio de guardería" width="100">
+                </article>
+                <article>
+                    <h4>Paseo</h4>                
+                    <p>Deja que paseemos a tu mascota mientras te encuentras en el trabajo o de vacaciones. ¿Tienes que ausentarte todo el día y nadie puede sacar a pasear a tu perro o visitar a tu gato? Encuentra un cuidador de mascotas que sabrá brindarle a tu perro o tu gato un momento de puro placer durante ese día. ¡A partir de ahora, no sientas más culpa! ¡Nuestros cuidadores se encargarán de él!</p>
+                    <img src="img/pasear-icon.png" alt="Imagen del servicio de paseo" width="100">
+                </article>
+                <article>
+                    <h4>Educación</h4>
+                    <p>Re-educamos sanamente algunos hábitos de tu mascota</p>
+                    <img src="img/educacion-icon.png" alt="Imagen del servicio de educación" width="100">
+                </article>
+            </div>
+        </section>
+        <section id="pricing"> 
+            <h3 style="text-align: center;">Pricing &#128176;</h3 >                          
+            <hr>   
+            <div>
+                <h4>Coste</h4>
+                <table cellspacing="0">
+                    <thead>
+                        <tr bgcolor="116979" style="color: white;">
+                            <th>Guardería</th>
+                            <th>Paseo</th>
+                            <th>Educación</th>
+                        </tr>
+                    </thead>
+                    <tbody style="text-align: center;">
+                        <tr>
+                            <td>25€</td>
+                            <td>15€</td>
+                            <td>30€</td>
+                        </tr>
+                    </tbody>
+                </table >
+            </div>
+            <div>
+                <h4>Descuentos</h4>
+                <p>1 bono = 4 horas</p>
+                <ul>
+                    <li>Guardería: 10% de descuento por la compra de 1 bono</li>
+                    <li>Paseo: 10% de descuento por la compra de 1 bono</li>
+                    <li>Paseo: 15% de descuento por la compra de 1 bono</li>
+                </ul>
+            </div>           
+        </section>
+        <section id="contacto">
+            <h3 style="text-align: center;">Contacto &#128241;</h3>            
+            <hr>
+            <h4>Reserva</h4>
+            <p>¿Te surgió una emergencia que te obliga a dejar tu domicilio y necesitas que cuiden de tu mascota? Para no afectar sus costumbres, contacta con nosotros quienes cuidaremos de ella en tu propio domicilio. De esta manera, tu mascota estará en buenas manos y sin pasar momentos de estrés.</p>
+            <form>
+                <div>
+                    <label for="nombre">Nombre: </label>
+                    <input id="nombre" type="text">
+                </div>
+                <div>
+                    <label for="apellido">Apellido: </label>
+                    <input id="apellido" type="text">
+                </div>
+                <div>
+                    <label for="email">Email: </label>
+                    <input id="email" type="email">
+                </div>
+                <div>
+                    <label form="movil">Móvil: </label>
+                    <input id="movil" type="tel">
+                </div>
+                <div>
+                    <label form="servicio">Servicio: </label>
+                    <select id="servicio">
+                        <option value="0">Guardería</option>
+                        <option value="1">Paseo</option>
+                        <option value="2">Educación</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="fecha-reserva">Fecha y hora de la reserva: </label>
+                    <input type="datetime-local" id="fecha-reserva">
+                </div>
+                <div>
+                    <textarea name="comentarios" rows="10" cols="100">Escriba aquí sus comentarios</textarea>
+                </div>
+                <button type="submit" style="width: 100px; height: 25px;">Enviar</button>
+            </form>
+        </section>
+        <footer>
+            <div>
+                <h4>Infomación</h4>
+                <address>
+                    Waku Waku<br>
+                    Fuente de la Mora<br>
+                    28050 Madrid<br>
+                    España <br>
+                    +34 666 717 890
+                </address>
+            </div>
+            <br>
+            <div>
+                <iframe src="https://maps.google.com/maps?width=100%&height=600&hl=es&q=Fuente%20de%20la%20Mora%2C%20Madrid+(Waku%20Waku)&ie=UTF8&t=&z=14&iwloc=B&output=embed"
+                class="map-frame"
+                frameborder="0"
+                style="border:0"
+                allowfullscreen
+                width="600"
+                height="300"
+                >                  
+                </iframe>
+                
+            </div>
+        </footer>
+    </body>
+</html>
